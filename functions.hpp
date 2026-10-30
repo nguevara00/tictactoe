@@ -183,5 +183,4 @@ Design notes:
 */
 Result minimaxAlphaBetaCutOff(const Board& board, int k);
 
-#endif FUNCTIONS_HPP
-
+#endif // FUNCTIONS_HPP
